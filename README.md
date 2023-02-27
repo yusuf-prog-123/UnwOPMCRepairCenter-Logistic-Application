@@ -1,3 +1,2 @@
 # UnwOPMCRepairCenter
-This is an Logistic Application That reads Barcode for Unique Information of the Object
-will update soon
+This is a logistic application designed for a repair facility that will fix home networking devices (ADSL routers, ONT, ZTE) and categorize them as repaired or defective after the catagorization we are able to withdraw the devices that are only repaired.A database is creating using mysql and has used an SQL connecter library is used on the jave netbeans project to establish connection with the SQL database That is created for the repair center  
