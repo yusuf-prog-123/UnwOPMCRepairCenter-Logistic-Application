@@ -15,6 +15,6 @@ Tab5-Montly Summary-->Export the summary for each month of year entry to a Excel
 
 
 ![Tab2](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)
-<img src="[http://url/image.png](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)" style=" width:60px ; height:60px ">
+<img src="[http://url/image.png](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)" style=" width:400px ; height:400px ">
 ![Tab3](https://user-images.githubusercontent.com/117608882/221508808-e99d4c62-e064-4e77-b78d-b9d45a088792.png)
 ![Tab4](https://user-images.githubusercontent.com/117608882/221508829-ca737771-dc3f-4727-9ea6-22c77a95d5db.png)
