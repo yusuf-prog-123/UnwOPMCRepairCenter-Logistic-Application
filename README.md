@@ -13,8 +13,7 @@ Tab4-Home-->Gives the count of number of Different types of tool availabe
 Tab5-Montly Summary-->Export the summary for each month of year entry to a Excel Sheet
 
 
-
+![Tab1](https://user-images.githubusercontent.com/117608882/221513165-c85c9249-e6cb-41e4-8558-5c502c5e6ff0.png)
 ![Tab2](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)
-<img src="[http://url/image.png](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)" style=" width:1000px ; height:400px ">
 ![Tab3](https://user-images.githubusercontent.com/117608882/221508808-e99d4c62-e064-4e77-b78d-b9d45a088792.png)
 ![Tab4](https://user-images.githubusercontent.com/117608882/221508829-ca737771-dc3f-4727-9ea6-22c77a95d5db.png)
