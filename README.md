@@ -3,7 +3,11 @@ This is a logistic application designed for a repair facility that will take use
 There are multiple tabs which are responsible for different function
 
 Tab1-Input RepairCenter-->You'll be Using a barcode reader, enter the Unique MAC address, pick the kind and location from where it has returned, and press enter to update the database. record will be enterd to the <b>input repair center</b> table of database
+
 Tab2-Repair Stock-->Select configured or faulty with the name of the technitian will be updated into <b>repaired stock</b> table in the database
+
 Tab3-Repaired Stock Taken-->Read Barcode when withdrawing and add to the <b>table withdrawn</b> in the database with the name of withdrawer 
+
 Tab4-Home-->Gives the count of number of Different types of tool availabe 
+
 Tab5-Montly Summary-->Export the summary for each month of year entry to a Excel Sheet
