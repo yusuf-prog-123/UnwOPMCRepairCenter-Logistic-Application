@@ -17,3 +17,19 @@ There are multiple tabs which are responsible for different function
 ![Tab2](https://user-images.githubusercontent.com/117608882/221508783-b88e0f53-de22-442e-8787-3ce7954fac92.png)
 ![Tab3](https://user-images.githubusercontent.com/117608882/221508808-e99d4c62-e064-4e77-b78d-b9d45a088792.png)
 ![Tab4](https://user-images.githubusercontent.com/117608882/221508829-ca737771-dc3f-4727-9ea6-22c77a95d5db.png)
+
+# fully Functioning 
+![Annotation 2023-02-27 190059](https://user-images.githubusercontent.com/117608882/221620233-67d48b57-1450-4918-b45c-46167f981edc.png)
+![Annotation 2023-02-27 190135](https://user-images.githubusercontent.com/117608882/221620259-b66c41bd-57bc-4ef3-889d-7d2c95387b57.png)
+![Annotation 2023-02-27 190151](https://user-images.githubusercontent.com/117608882/221620327-a91bc65c-8dc0-4eb2-ab39-28f240127f9b.png)
+![Annotation 2023-02-27 190215](https://user-images.githubusercontent.com/117608882/221620347-54a07f23-c0b6-4a18-8a99-9620c621a420.png)
+![Annotation 2023-02-27 190319](https://user-images.githubusercontent.com/117608882/221620560-0d9f9c44-d274-451c-9686-d52ec26c854b.png)
+
+
+
+
+
+![Annotation 2023-02-27 190524](https://user-images.githubusercontent.com/117608882/221620625-34bb4de5-b3ba-448a-8f91-5aba7568fc08.png)
+
+
+
