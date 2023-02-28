@@ -312,11 +312,6 @@ public class OPMC extends javax.swing.JFrame {
             }
         });
 
-        jTextField1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField1ActionPerformed(evt);
-            }
-        });
         jTextField1.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyReleased(java.awt.event.KeyEvent evt) {
                 jTextField1KeyReleased(evt);
@@ -371,12 +366,6 @@ public class OPMC extends javax.swing.JFrame {
         jScrollPane7.setViewportView(jTextArea1);
 
         jLabel23.setIcon(new javax.swing.ImageIcon(getClass().getResource("/sd.png"))); // NOI18N
-
-        incre.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                increActionPerformed(evt);
-            }
-        });
 
         jLabel61.setText("StockNo");
 
@@ -825,11 +814,6 @@ public class OPMC extends javax.swing.JFrame {
 
         jComboBox4.setFont(new java.awt.Font("Tempus Sans ITC", 1, 12)); // NOI18N
         jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Galle", "Hikkaduwa", "Ambalangoda", "SLTS" }));
-        jComboBox4.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jComboBox4ActionPerformed(evt);
-            }
-        });
 
         jScrollPane6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
 
@@ -1489,6 +1473,7 @@ public class OPMC extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+    /*Function used to update Stock table of the mySQL Database*/
     public void  updateDB(){
         int q,i;
         try{
@@ -1530,8 +1515,8 @@ public class OPMC extends javax.swing.JFrame {
     
     
     }
-    //function used to update the table in Repair TAb
-    
+    /*Function used to update Employee table of the mySQL Database*/
+    //Repir tab
     public void updateDBRepair(){
     
         int q,i;
@@ -1576,6 +1561,7 @@ public class OPMC extends javax.swing.JFrame {
 
     }
     //used to update the withdrawen table in the Withdrawel TAb
+    /*Function used to update withdrawer table of the mySQL Database*/
     public void updateDBwith(){
         int q,i;
         try{
@@ -2023,10 +2009,6 @@ public class OPMC extends javax.swing.JFrame {
         
         
     }//GEN-LAST:event_jButton1ActionPerformed
-
-    private void jTextField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField1ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField1ActionPerformed
 
     private void jTextField1KeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTextField1KeyReleased
         // TODO add your handling code here:
@@ -2890,14 +2872,6 @@ public class OPMC extends javax.swing.JFrame {
     private void techKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_techKeyPressed
         // TODO add your handling code here:
     }//GEN-LAST:event_techKeyPressed
-
-    private void increActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_increActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_increActionPerformed
-
-    private void jComboBox4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jComboBox4ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jComboBox4ActionPerformed
 
     private void feildcomboActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_feildcomboActionPerformed
         // TODO add your handling code here:
