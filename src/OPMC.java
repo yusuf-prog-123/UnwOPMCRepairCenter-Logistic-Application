@@ -2111,7 +2111,7 @@ public class OPMC extends javax.swing.JFrame {
         
         }
     }//GEN-LAST:event_jButton2ActionPerformed
-//button that belongs to summary tab***************
+//button that belongs to summary tab***************j
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
         int q,i;
