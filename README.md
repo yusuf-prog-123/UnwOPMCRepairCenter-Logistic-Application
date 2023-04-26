@@ -1,16 +1,30 @@
-# UnwOPMCRepairCenter
-This is a logistic application designed for a repair facility that will take used home networking devices (ADSL routers, ONT, ZTE) that are returned from customers and categorize them as configured or defective after checking the router, the categorization allows us to extract just repaired devices. A database is created with mysql and a <b>SQL connecter library</b> is used on the jave netbeans project to connect to the SQL database that has already been created. This is made for the repair shop inorder to provide high effeceincy when taking care of huge load of network devices that are being returned from customers.
-There are multiple tabs which are responsible for different function
+# Logistic Application for Repair Center
+This application is designed for a repair facility that receives used home networking devices from customers. The application categorizes the devices as configured or defective and allows the repair center to extract just the repaired devices. The application is built using Java Netbeans for the interface and functions, and MySQL for the database.
 
-*Tab1-Input RepairCenter-->You'll be Using a barcode reader, enter the Unique MAC address, pick the kind and location from where it has returned, and press enter to update the database. record will be enterd to the <b>input repair center</b> table of database
+# Features
+Input RepairCenter Tab: Users can input device details using a barcode reader, including the unique MAC address, device type, and location. The database is updated with the entered details.
 
-*Tab2-Repair Stock-->Select configured or faulty with the name of the technitian will be updated into <b>repaired stock</b> table in the database
+Repair Stock Tab: Users can select whether the device is configured or faulty, and enter the name of the technician who repaired the device. The details are updated in the repaired stock table of the database.
 
-*Tab3-Repaired Stock Taken-->Read Barcode when withdrawing and add to the <b>table withdrawn</b> in the database with the name of withdrawer 
+Repaired Stock Taken Tab: Users can read the barcode of the withdrawn device, and the details are added to the withdrawn table in the database along with the name of the withdrawer.
 
-*Tab4-Home-->Gives the count of number of Different types of tool availabe 
+Home Tab: Displays the count of different types of tools available.
 
-*Tab5-Montly Summary-->Export the summary for each month of year entry to a Excel Sheet
+Monthly Summary Tab: Users can export the summary for each month of the year to an Excel sheet.
+
+# Technology Stack
+Java Netbeans
+MySQL
+SQL Connector Library
+Purpose
+This application provides high efficiency when dealing with a large volume of network devices that are returned from customers. It simplifies the categorization and tracking of devices in the repair center, making the process faster and more streamlined.
+
+#Installation
+Download and install Java Netbeans and MySQL.
+Download and clone the repository.
+Import the SQL file to create the database and tables.
+Connect the application to the MySQL database.
+Run the application.
 
 
 ![Tab1](https://user-images.githubusercontent.com/117608882/221513165-c85c9249-e6cb-41e4-8558-5c502c5e6ff0.png)
