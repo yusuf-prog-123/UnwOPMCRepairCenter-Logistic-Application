@@ -2,7 +2,7 @@
 This application is designed for a repair facility that receives used home networking devices from customers. The application categorizes the devices as configured or defective and allows the repair center to extract just the repaired devices. The application is built using Java Netbeans for the interface and functions, and MySQL for the database.
 
 # Features
-Input RepairCenter Tab: Users can input device details using a barcode reader, including the unique MAC address, device type, and location. The database is updated with the entered details.
+<h3>&#x2022; HTML</h3>Input RepairCenter Tab: Users can input device details using a barcode reader, including the unique MAC address, device type, and location. The database is updated with the entered details.
 
 Repair Stock Tab: Users can select whether the device is configured or faulty, and enter the name of the technician who repaired the device. The details are updated in the repaired stock table of the database.
 
@@ -23,15 +23,15 @@ SQL Connector Library
 This application provides high efficiency when dealing with a large volume of network devices that are returned from customers. It simplifies the categorization and tracking of devices in the repair center, making the process faster and more streamlined.
 
 # Installation
-Download and install Java Netbeans and MySQL.
+1.Download and install Java Netbeans and MySQL.
 
-Download and clone the repository.
+2.Download and clone the repository.
 
-Import the SQL file to create the database and tables.
+3.Import the SQL file to create the database and tables.
 
-Connect the application to the MySQL database.
+4.Connect the application to the MySQL database.
 
-Run the application.
+5.Run the application.
 
 
 ![Tab1](https://user-images.githubusercontent.com/117608882/221513165-c85c9249-e6cb-41e4-8558-5c502c5e6ff0.png)
