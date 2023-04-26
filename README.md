@@ -14,16 +14,23 @@ Monthly Summary Tab: Users can export the summary for each month of the year to 
 
 # Technology Stack
 Java Netbeans
+
 MySQL
+
 SQL Connector Library
-Purpose
+
+#Purpose
 This application provides high efficiency when dealing with a large volume of network devices that are returned from customers. It simplifies the categorization and tracking of devices in the repair center, making the process faster and more streamlined.
 
 #Installation
 Download and install Java Netbeans and MySQL.
+
 Download and clone the repository.
+
 Import the SQL file to create the database and tables.
+
 Connect the application to the MySQL database.
+
 Run the application.
 
 
