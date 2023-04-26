@@ -19,10 +19,10 @@ MySQL
 
 SQL Connector Library
 
-#Purpose
+# Purpose
 This application provides high efficiency when dealing with a large volume of network devices that are returned from customers. It simplifies the categorization and tracking of devices in the repair center, making the process faster and more streamlined.
 
-#Installation
+ #Installation
 Download and install Java Netbeans and MySQL.
 
 Download and clone the repository.
