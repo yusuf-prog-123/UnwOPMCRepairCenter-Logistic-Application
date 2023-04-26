@@ -2,22 +2,20 @@
 This application is designed for a repair facility that receives used home networking devices from customers. The application categorizes the devices as configured or defective and allows the repair center to extract just the repaired devices. The application is built using Java Netbeans for the interface and functions, and MySQL for the database.
 
 # Features
-<p>&#x2022; Input RepairCenter Tab: Users can input device details using a barcode reader, including the unique MAC address, device type, and location.The database is updated with the entered details.</p>
+<p>&#x2022;Input RepairCenter Tab: Users can input device details using a barcode reader, including the unique MAC address, device type, and location.The database is updated with the entered details.</p>
 
-Repair Stock Tab: Users can select whether the device is configured or faulty, and enter the name of the technician who repaired the device. The details are updated in the repaired stock table of the database.
+<p>&#x2022;Repair Stock Tab: Users can select whether the device is configured or faulty, and enter the name of the technician who repaired the device. The details are updated in the repaired stock table of the database.</p>
 
-Repaired Stock Taken Tab: Users can read the barcode of the withdrawn device, and the details are added to the withdrawn table in the database along with the name of the withdrawer.
+<p>&#x2022;Repaired Stock Taken Tab: Users can read the barcode of the withdrawn device, and the details are added to the withdrawn table in the database along with the name of the withdrawer.</p>
 
-Home Tab: Displays the count of different types of tools available.
+<p>&#x2022;Home Tab: Displays the count of different types of tools available.</p>
 
-Monthly Summary Tab: Users can export the summary for each month of the year to an Excel sheet.
+<p>&#x2022;Monthly Summary Tab: Users can export the summary for each month of the year to an Excel sheet.</p>
 
 # Technology Stack
-Java Netbeans
-
-MySQL
-
-SQL Connector Library
+<p>&#x2022;Java Netbeans</p>
+<p>&#x2022;MySQL</p>
+<p>&#x2022;SQL Connector Library</p>
 
 # Purpose
 This application provides high efficiency when dealing with a large volume of network devices that are returned from customers. It simplifies the categorization and tracking of devices in the repair center, making the process faster and more streamlined.
