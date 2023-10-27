@@ -39,7 +39,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  * @author YUSUF
  */
 public class OPMC extends javax.swing.JFrame {
-    <meta name="google-site-verification" content="fOMV3BjbMBtgsgQ1-QlG2DOxrQ6Vl7gJq6wp-GGoydU" />
+    
     //local hsot server
     private static final String username="Hoota";//Server Root name (MySQL)
     private static final String password="HaaSike";//Server password (MySQL)
