@@ -8,12 +8,12 @@ Responsible for designing, developing, and implementing a logistics system tailo
 <p>&#x2022;<b>Automation Integration</b>: Implement bar-code reader functionality to automate MAC address extraction, reducing manual errors and streamlining data input.
 <p>&#x2022;<b>Quality Control</b>: Introduce mechanisms to flag devices repaired more than three times, ensuring operational efficiency and reducing repeated returns.
 <p>&#x2022;<b>Report Generation</b>: Build filtering methods and reporting capabilities to track repairs and withdrawals, providing comprehensive insights into repair center activities.
-<p>&#x2022;<b>Collaboration</b>: Work with technicians to understand operational workflows and refine the system based on real-time feedback.
-Technologies Used:
+<p>&#x2022;<b>Collaboration</b>: Work with technicians to understand operational workflows and refine the system based on real-time feedback</p>.
+# Technologies Used:
 <p>&#x2022;<b>Programming</b>: Java (NetBeans IDE) with JDBC for database connectivity.
 <p>&#x2022;<b>Database Management</b>: MySQL for device data storage and query execution.
-<p>&#x2022;<b>Hardware Integration</b>: Bar-code reader for MAC address extraction and device identification.
-### Impact:
+<p>&#x2022;<b>Hardware Integration</b>: Bar-code reader for MAC address extraction and device identification</p>.
+# Impact
 <p>&#x2022;Improved device tracking accuracy and repair efficiency.
 <p>&#x2022;Reduced workload on repair center staff by automating repetitive tasks.
 <p>&#x2022;Minimized recurring issues with devices undergoing multiple repairs without proper tracking.
