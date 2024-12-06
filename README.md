@@ -1,6 +1,24 @@
 # Logistic Application for Repair Center
 
-This application is designed for a repair facility that receives used home networking devices from customers. The application categorizes the devices as configured or defective and allows the repair center to extract just the repaired devices. The application is built using Java Netbeans for the interface and functions, and MySQL for the database.
+Responsible for designing, developing, and implementing a logistics system tailored to streamline and improve the efficiency of a network device repair center.primary duties involve ensuring accurate tracking and management of network devices such as ADSL and Fiber Optics equipment.
+
+Key Responsibilities:
+
+<b>System Design & Development</B>: Develop a robust system to track the lifecycle of network devices (from repair to withdrawal) using Java and MySQL.
+<b>Data Management: Design and maintain a MySQL database to store critical device information, including MAC addresses, repair history, and activity logs.
+<b>Automation Integration: Implement bar-code reader functionality to automate MAC address extraction, reducing manual errors and streamlining data input.
+<b>Quality Control: Introduce mechanisms to flag devices repaired more than three times, ensuring operational efficiency and reducing repeated returns.
+<b>Report Generation: Build filtering methods and reporting capabilities to track repairs and withdrawals, providing comprehensive insights into repair center activities.
+<b>Collaboration: Work with technicians to understand operational workflows and refine the system based on real-time feedback.
+Technologies Used:
+<b>Programming: Java (NetBeans IDE) with JDBC for database connectivity.
+<b>Database Management: MySQL for device data storage and query execution.
+<b>Hardware Integration: Bar-code reader for MAC address extraction and device identification.
+Impact:
+Improved device tracking accuracy and repair efficiency.
+Reduced workload on repair center staff by automating repetitive tasks.
+Minimized recurring issues with devices undergoing multiple repairs without proper tracking.
+Enhanced transparency and accountability with detailed activity reporting.
 
 # Features
 
